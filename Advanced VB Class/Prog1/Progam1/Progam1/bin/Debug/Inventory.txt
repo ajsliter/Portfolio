@@ -1,0 +1,3 @@
+123, swords, 12, 34, False
+456, Shields, 34, 56, False
+789, Gold, 234, 12, False
