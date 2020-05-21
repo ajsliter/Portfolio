@@ -1,6 +1,6 @@
 # Portfolio README
 Welcome Potential Employers! This repository contains all project files from my classes at Saginaw Valley State University.  
-This is useful repository to get a feel for my commenting style and my knowledge of microsoft .NET development, espeically 
+This is a useful repository to get a feel for my commenting style and my knowledge of microsoft .NET development, espeically 
 VB.NET.I am about at the same Level for C#. I may be a bit behind C# in terms of my Java experience as I have never created 
 anything except console applications in Java before. I also have included the project definition document, operational 
 screenshots and the project files themselves. Unfortunately, I have no Java examples in this repository as an error with my 
